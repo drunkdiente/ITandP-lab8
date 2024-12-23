@@ -1,0 +1,11 @@
+Результаты: FilterProcessor::filterData
+data1
+data3
+
+Результаты: TransformProcessor::transformData
+DATA1
+DATA3
+
+Результаты: AggregationProcessor::aggregateData
+Количество элементов: 2
+
